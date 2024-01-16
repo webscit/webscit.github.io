@@ -49,7 +49,7 @@ params:
   author: WebScIT
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
-  moto: "Web technologies for scientific tools"
+  moto: "Web technologies for science"
   description: "A consulting company focusing on scientific softwares."
   disable_theme_toggle: false
   disable_partners: true
