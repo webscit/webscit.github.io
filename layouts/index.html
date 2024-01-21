@@ -105,7 +105,7 @@
                         <rect width="404" height="392" fill="url(#837c3e70-6c3a-44e6-8854-cc48c737b659)"></rect>
                     </svg>
                 </div>
-                <div class="relative pl-4 -mr-40 sm:mx-auto sm:max-w-3xl sm:px-0 lg:h-full lg:max-w-none lg:pl-12">
+                <div class="relative w-full h-auto pl-4 -mr-40 sm:mx-auto sm:max-w-3xl sm:px-0 lg:h-full lg:max-w-none lg:pl-12">
                     {{ $p2image := resources.Get .Site.Params.P2.Image }}
                     {{ with $p2image }}
                     {{ with .Resize (printf "%dx%d webp q90" .Width .Height) }}
