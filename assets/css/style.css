@@ -1183,10 +1183,6 @@ video {
   margin-right: -0.75rem;
 }
 
-.-mr-40 {
-  margin-right: -10rem;
-}
-
 .-mt-72 {
   margin-top: -18rem;
 }
@@ -1333,10 +1329,6 @@ video {
 
 .w-full {
   width: 100%;
-}
-
-.w-screen {
-  width: 100vw;
 }
 
 .min-w-0 {
@@ -1744,10 +1736,6 @@ video {
   padding-bottom: 24rem;
 }
 
-.pb-12 {
-  padding-bottom: 3rem;
-}
-
 .pb-16 {
   padding-bottom: 4rem;
 }
@@ -1758,10 +1746,6 @@ video {
 
 .pb-4 {
   padding-bottom: 1rem;
-}
-
-.pl-4 {
-  padding-left: 1rem;
 }
 
 .pr-2 {
@@ -2270,10 +2254,6 @@ EmojiSymbols;
 }
 
 @media (min-width: 640px) {
-  .sm\:relative {
-    position: relative;
-  }
-
   .sm\:col-span-2 {
     grid-column: span 2 / span 2;
   }
@@ -2303,10 +2283,6 @@ EmojiSymbols;
     margin-top: 0px;
   }
 
-  .sm\:mt-12 {
-    margin-top: 3rem;
-  }
-
   .sm\:mt-4 {
     margin-top: 1rem;
   }
@@ -2334,10 +2310,6 @@ EmojiSymbols;
 
   .sm\:max-w-lg {
     max-width: 32rem;
-  }
-
-  .sm\:max-w-xl {
-    max-width: 36rem;
   }
 
   .sm\:px-0 {
@@ -2414,14 +2386,6 @@ EmojiSymbols;
     margin-top: 3rem;
   }
 
-  .md\:mt-16 {
-    margin-top: 4rem;
-  }
-
-  .md\:mt-8 {
-    margin-top: 2rem;
-  }
-
   .md\:inline {
     display: inline;
   }
@@ -2493,11 +2457,6 @@ EmojiSymbols;
     padding-right: 1.5rem;
   }
 
-  .md\:py-12 {
-    padding-top: 3rem;
-    padding-bottom: 3rem;
-  }
-
   .md\:pb-0 {
     padding-bottom: 0px;
   }
@@ -2535,25 +2494,21 @@ EmojiSymbols;
     position: absolute;
   }
 
-  .lg\:relative {
-    position: relative;
-  }
-
   .lg\:inset-y-0 {
     top: 0px;
     bottom: 0px;
+  }
+
+  .lg\:-left-8 {
+    left: -2rem;
   }
 
   .lg\:-right-8 {
     right: -2rem;
   }
 
-  .lg\:left-0 {
-    left: 0px;
-  }
-
-  .lg\:left-80 {
-    left: 20rem;
+  .lg\:left-72 {
+    left: 18rem;
   }
 
   .lg\:left-auto {
@@ -2568,12 +2523,12 @@ EmojiSymbols;
     right: 18rem;
   }
 
-  .lg\:top-12 {
-    top: 3rem;
+  .lg\:right-auto {
+    right: auto;
   }
 
-  .lg\:m-0 {
-    margin: 0px;
+  .lg\:top-12 {
+    top: 3rem;
   }
 
   .lg\:mx-0 {
@@ -2604,22 +2559,6 @@ EmojiSymbols;
 
   .lg\:grid {
     display: grid;
-  }
-
-  .lg\:h-full {
-    height: 100%;
-  }
-
-  .lg\:w-1\/2 {
-    width: 50%;
-  }
-
-  .lg\:w-auto {
-    width: auto;
-  }
-
-  .lg\:w-full {
-    width: 100%;
   }
 
   .lg\:w-screen {
@@ -2694,10 +2633,6 @@ EmojiSymbols;
 
   .lg\:pb-24 {
     padding-bottom: 6rem;
-  }
-
-  .lg\:pl-12 {
-    padding-left: 3rem;
   }
 
   .lg\:pt-12 {
