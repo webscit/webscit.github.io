@@ -52,7 +52,7 @@ params:
   moto: "Web technologies for science"
   description: "A consulting company focusing on scientific softwares development."
   disable_theme_toggle: false
-  disable_partners: true
+  disable_partners: false
   disable_blog_on_home: true
   disable_stay_uptodate: true
 
@@ -73,23 +73,23 @@ params:
       - text: "We strive for excellence in software development by emphasizing on good validation plan of key features."
       - text: "We encourage creativity and originality in developing software solutions that can solve complex scientific problems."
       - text: "Most solutions built on top of open-source code. Therefore we advocate for contributing back to the community any code outside the core business one."
+  p3:
+    heading: "They trust us"
+    content:
+      - text: "Those companies trusted us to improve their scientific applications."
+    # links:
+    #   - text: Meet our investors and advisors
+    #     url: "#"
+    logos:
+      - identifier: Datalayer
+        image: "images/global/datalayer-logo.svg"
+        alt: "Datalayer"
+        href: "https://datalayer.io/"
+      - identifier: twiinIT
+        image: "images/global/twiinIT-logo.svg"
+        alt: "twiinIT"
+        href: "https://twiinit.com/"
   # IMPORTANT need to tune layouts/index.html when activating those sections
-  # p3:
-  #   heading: "They trust us"
-  #   content:
-  #     - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
-  #   links:
-  #     - text: Meet our investors and advisors
-  #       url: "#"
-  #   logos:
-  #     - identifier: a
-  #       image: "images/global/sample-logo.svg"
-  #       alt: "a"
-  #     - identifier: b
-  #     - identifier: c
-  #     - identifier: d
-  #     - identifier: e
-  #     - identifier: f
   # p4:
   #   heading: "From the blog"
   #   content:
