@@ -24,7 +24,7 @@ framework to design complex systems that eventually got published
 publicly.
 During that period, he got more and more involved in the interactive-computing 
 [Jupyter ecosystem](https://jupyter.org/). That materializes professionally by joining QuantStack - a company leader in Jupyter development - and on the
-community by becoming a distinguish contributors
+community by becoming a distinguish contributor
 and the JupyterLab representative to the Jupyter software steering council in 2023.
 </td>
 <tr>
